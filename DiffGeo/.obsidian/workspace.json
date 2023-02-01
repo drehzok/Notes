@@ -1,48 +1,39 @@
 {
   "main": {
-    "id": "89d8773a3f9d46d6",
+    "id": "fa8d341d723f60ac",
     "type": "split",
     "children": [
       {
-        "id": "9f858651daaf3b70",
+        "id": "86a31bf2da49817a",
         "type": "tabs",
         "children": [
           {
-            "id": "02f17138679573be",
+            "id": "c5cb79f98d300ab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stopping time.md",
+                "file": "Sub-Riemannian structures.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f1120c6caed09f6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8ed6a8117a478e9f",
+    "id": "aee843b3da4b7a1c",
     "type": "split",
     "children": [
       {
-        "id": "b307ab1b49909379",
+        "id": "f794a77da11efaa3",
         "type": "tabs",
         "children": [
           {
-            "id": "c62ab2a537b7eca4",
+            "id": "495545b4ea0fd0cb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +43,7 @@
             }
           },
           {
-            "id": "5163c75a758676e4",
+            "id": "dcea04ed68800e32",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +58,7 @@
             }
           },
           {
-            "id": "3e7596af93f1341a",
+            "id": "684eb589d357fe96",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -82,19 +73,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "6d485f259808f79b",
+    "id": "89ded9071af2d240",
     "type": "split",
     "children": [
       {
-        "id": "92dd10a6136a7a9d",
+        "id": "d338b562660ed4d6",
         "type": "tabs",
         "children": [
           {
-            "id": "ba8e6380435ad62f",
+            "id": "74c3114777bb0ce9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sub-Riemannian structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,18 +98,19 @@
             }
           },
           {
-            "id": "28925902fdf80b0a",
+            "id": "c8098d03f7f8dd57",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sub-Riemannian structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fd5cb2fe7c99f6f5",
+            "id": "42bff3c9327c42b8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,11 +121,13 @@
             }
           },
           {
-            "id": "ffda4276592cbcd8",
+            "id": "18eefd496b52e4c8",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sub-Riemannian structures.md"
+              }
             }
           }
         ]
@@ -152,16 +147,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f1120c6caed09f6",
-  "lastOpenFiles": [
-    "Stochastic process.md",
-    "Martingales.md",
-    "Filtration.md",
-    "Measurability.md",
-    "Stopping time.md",
-    "Wiener space.md",
-    "Untitled.canvas",
-    "Path space.md",
-    "2023-01-30.md"
-  ]
+  "active": "c5cb79f98d300ab1",
+  "lastOpenFiles": []
 }
